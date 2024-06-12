@@ -1,5 +1,8 @@
 // Autor: Axel Molineros
-// Tema: 4) Diseñe la función que resuelva el problema de la ecuación cuadrática. La función debe recibir en total 5 parámetros: los 3 primeros son los valores a, b y c que representan los coeficientes de la ecuación. Los 2 parámetros restantes representan los valores resultantes de la ecuación, en este caso x1, y x2 que se deben pasar como referencias. La función devuelve falso, si la ecuación presenta errores; caso contrario devuelve verdadero.
+// Tema: 4) Diseñe la función que resuelva el problema de la ecuación cuadrática. La función debe recibir en total 5 parámetros:
+// los 3 primeros son los valores a, b y c que representan los coeficientes de la ecuación.
+// Los 2 parámetros restantes representan los valores resultantes de la ecuación, en este caso x1, y x2 que se deben pasar como referencias. 
+// La función devuelve falso, si la ecuación presenta errores; caso contrario devuelve verdadero.
 
 #include<iostream>
 #include<cmath>
